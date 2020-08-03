@@ -67,4 +67,4 @@ user_groups:
 
 Tim Baer is a junior studying computer science at the Univeristy of Illinois at Urbana-Champaign. He is currently interning with IBM on the DB2z Tools team and in addition is a member of the Laboratory for Parallel Numerical Algorithms.
 
-Check out my resume [here]().
+Check out my resume [here](https://github.com/timjbaer/academic-kickstart/blob/master/assets/resume_baer.pdf).
