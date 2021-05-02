@@ -30,7 +30,7 @@ education:
   courses:
   - course: BS in Computer Science & Mathematics
     institution: University of Illinois at Urbana-Champaign
-    year: 2021 (expected)
+    year: May 2022 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tbaer2@illinois.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:timjbaer2@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tim-baer/
@@ -48,7 +48,7 @@ social:
   link: https://github.com/timjbaer
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Tim Baer is a junior studying computer science at the Univeristy of Illinois at Urbana-Champaign. He is currently interning with IBM on the DB2z Tools team and in addition is a member of the Laboratory for Parallel Numerical Algorithms.
+Tim Baer is a junior studying computer science at the Univeristy of Illinois at Urbana-Champaign. He will be interning with C3.ai on the Platform team this summer and on campus is a member of the Laboratory for Parallel Numerical Algorithms.
 
-Check out my resume [here](https://github.com/timjbaer/academic-kickstart/blob/master/assets/resume_baer.pdf).
+Check out my resume [here](https://timjbaer.github.io/resume.pdf) (last updated 4/30/2021).
