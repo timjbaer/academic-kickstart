@@ -37,7 +37,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Backend Software Developer Intern"
-  company = "IBM | DB2z Tools"
+  company = "IBM | Db2z Tools"
   company_url = ""
   location = "San Jose, CA"
   date_start = "2020-06-01"
