@@ -1,8 +1,7 @@
 ---
-title: "Parallel Minimum Spanning Forest Computation using Sparse Matrix Kernels"
+title: Parallel Minimum Spanning Forest Computation using Sparse Matrix Kernels
 
 summary: SIAM PP 2022
-
 abstract: Formulations of graph algorithms using sparse linear algebra have yielded highly scalable distributed algorithms for problems such as connectivity and shortest path computation. We develop the first formulation of the Awerbuch-Shiloach parallel minimum spanning forest (MSF) algorithm using linear algebra primitives. We introduce a multilinear kernel that operates on an adjacency matrix and two vectors. This kernel updates graph vertices by simultaneously using information from both adjacent edges and vertices. In addition, we explore optimizations to accelerate the shortcutting step in the Awerbuch-Shiloach algorithm. We implement this MSF algorithm with Cyclops, a distributed-memory library for generalized sparse tensor algebra. We analyze the parallel scalability of our implementation on the Stampede2 supercomputer.
 
 # Talk start and end times.
@@ -17,7 +16,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
