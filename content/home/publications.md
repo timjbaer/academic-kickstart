@@ -6,15 +6,17 @@ widget: pages
 # This file represents a page section.
 headless: true
 
+active: true
+
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
+title: 'Publications'
 subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: talk
+  page_type: publication 
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Filter on criteria

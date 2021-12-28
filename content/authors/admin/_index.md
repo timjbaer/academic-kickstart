@@ -21,10 +21,10 @@ organizations:
 #bio:
 
 interests:
+- Parallel/distributed computing
 - Graph algorithms
-- Parallel computing
 - Numerical linear algebra
-- Tensor computations 
+- Convex optimization
 
 education:
   courses:
@@ -48,7 +48,7 @@ social:
   link: https://github.com/timjbaer
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/
+  link: https://scholar.google.com/citations?hl=en&user=my15YOQAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Tim Baer is a junior studying computer science at the Univeristy of Illinois at Urbana-Champaign. He will be interning with C3.ai on the Platform team this summer and on campus is a member of the Laboratory for Parallel Numerical Algorithms.
+Tim is a senior studying computer science at the University of Illinois at Urbana-Champaign. He is a member of the [Laboratory for Parallel Numerical Algorithms](https://lpna.cs.illinois.edu) where he is investigating parallel/distributed graph algorithms with Professor Solomonik. After graduation, Tim will join [Aviatrix](https://aviatrix.com) as a software engineer. He has previously interned at C3.ai and IBM in addition to serving on course staff for Software Design Studio (CS 126) and Introduction to Computer Science (CS 125).
 
-Check out my resume [here](https://timjbaer.github.io/resume.pdf) (last updated 4/30/2021).
+Check out my [resume](https://timjbaer.github.io/resume.pdf) (updated 8/17/2021) or [cv](https://timjbaer.github.io/cv.pdf) (updated 12/28/2021).

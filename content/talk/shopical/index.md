@@ -1,12 +1,12 @@
 ---
-title: Low Hop Emulators and Uncapacitated Min-Cost Flow
+title: "Shopical: Shop Ethical"
 
-summary: Presented at UIUC parallel algorithms reading group and PPoSS planning group. 
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: IBM Intern Hackthon 2020 
+abstract: Environmental activists and researchers identified hundreds of chemicals and compounds that as harmful to our environment. The Shopical mobile app provides a way for consumers to check the sustainability of ingredients in beauty and food products in real-time. Users can scan the ingredients list of a product and instantly receive information about the environmentally harmful chemicals present. We hope that this will empower individuals to make purchases that are better for the environment. We won 2nd place in the climate change division (126 teams across 3 divisions).
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-15T13:00:00Z"
+date: "2020-07-28T13:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -24,7 +24,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: "https://timjbaer.github.io/Low_Hop_Emulators_and_Applications.pdf"
+url_slides: "https://timjbaer.github.io/shopical.pdf"
 url_video: ""
 
 # Projects (optional).

@@ -74,4 +74,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+- (December 2021) I was selected as an honorable mention for the [CRA Outstanding Undergraduate Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award)! See my [research summary](https://timjbaer.github.io/cra_research.pdf) or [personal statement](https://timjbaer.github.io/cra_personal.pdf).
+- (December 2021) Our work on [finding minimum spanning forests in parallel](https://arxiv.org/abs/2110.04865) was accepted by SIAM PP 2022!
+- (October 2021) I will be joining [Aviatrix](https://aviatrix.com) as a software engineer after graduation!
+- (July 2021) At C3.ai, I was selected for a filmed 1:1 intern testimonal [interview](https://www.youtube.com/watch?v=ESnvKqbHmeY).
+- (May 2021) I was awarded the [Franz Hohn and J.P. Nash scholarship](https://cs.illinois.edu/about/awards/undergraduate-scholarships-awards/franz-hohn-and-jp-nash-scholarship)! This and awards/scholarships earned by other students were featured in the [celebration of excellence](https://cs.illinois.edu/about/awards/celebration).

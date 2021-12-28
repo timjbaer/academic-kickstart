@@ -1,12 +1,12 @@
 ---
-title: Multilinear Operations on Sparse Tensors & Graphs
+title: Python Code Generation & Distributed Deep Learning Frameworks 
 
-summary: Tensor Computations (CS 598) Final Project
-abstract: "We explore several examples that highlight the relationship between graph algorithms and sparse linear algebra. First, we briefly review multilinear operations and their associated output filters. We then discuss our recent work on scalable algorithms for computing a minimum spanning forest and finding a vertex's closest neighbors that leverage a communication-efficient multilinear kernel."
+summary: C3.ai Plaform Engineering Lunch & Learn
+abstract: We demo our work on developing a transpiler for Python code generation to avoid serialization of large arrays across languages, improving performance up to 4000x. We also discuss our research on open-source distributed deep learning frameworks and design of end-to-end integrations with the platform.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-12-07T13:00:00Z"
+date: "2021-08-12T13:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -24,7 +24,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: "https://timjbaer.github.io/multilinear.pdf"
+url_slides: ""
 url_video: ""
 
 # Projects (optional).

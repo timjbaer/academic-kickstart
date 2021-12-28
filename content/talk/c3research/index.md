@@ -1,12 +1,12 @@
 ---
-title: Multilinear Operations on Sparse Tensors & Graphs
+title: Graph Algorithms with Sparse Linear Algebra
 
-summary: Tensor Computations (CS 598) Final Project
-abstract: "We explore several examples that highlight the relationship between graph algorithms and sparse linear algebra. First, we briefly review multilinear operations and their associated output filters. We then discuss our recent work on scalable algorithms for computing a minimum spanning forest and finding a vertex's closest neighbors that leverage a communication-efficient multilinear kernel."
+summary: C3.ai Plaform Engineering
+abstract: We explore several examples that highlight the relationship between graph algorithms and sparse linear algebra. First, we build basic algebraic machinery and review all pairs shortest paths as a motivating example. We then examine matrix multiplication from a variety of algorithmic lenses, including parallel/distributed and sparse data. Next, we discuss our recent work on scalable algorithms for computing a minimum spanning forest. We conclude with an introduction to expanders as an example from spectral graph theory.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-12-07T13:00:00Z"
+date: "2021-07-19T13:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -24,7 +24,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: "https://timjbaer.github.io/multilinear.pdf"
+url_slides: "https://timjbaer.github.io/graphs_linear_algebra.pdf"
 url_video: ""
 
 # Projects (optional).
